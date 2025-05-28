@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vn.pirago.chokoto.dev",
+      "sha256_cert_fingerprints":
+      ["98:23:D4:31:20:CB:04:4C:9D:D0:D1:97:CD:C1:F0:28:AD:24:43:76:72:BC:B8:DA:11:E5:6F:44:73:5D:A3:68"]
+    }
+  }
+]
