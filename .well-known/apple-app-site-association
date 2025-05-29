@@ -6,10 +6,8 @@
         "appIDs": [
           "HNNNVDY9H9.vn.pirago.chokoto.dev"
         ],
-        "components": [
-          {
-            "/": "/redirect-app*"
-          }
+        "path": [
+          "*"
         ]
       }
     ]
