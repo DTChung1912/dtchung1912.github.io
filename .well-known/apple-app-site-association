@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
+        "appID": [
           "9L7RS5M8XW.vn.pirago.chokoto.dev"
         ],
         "paths": ["*"]
