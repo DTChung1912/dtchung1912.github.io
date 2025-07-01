@@ -9,6 +9,9 @@
         "components": [
           {
             "/": "/reset-password*"
+          }, 
+          {
+             "/": "test/reset-password*"
           }
         ]
       }
